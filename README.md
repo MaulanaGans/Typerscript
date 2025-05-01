@@ -1,5 +1,5 @@
 # IMPHNEN Landing Page 
-> Ingin Menjadi Programmer Handal Namun Enggan Ngoding
+> test
 
 
 
@@ -9,4 +9,4 @@
 https://imphnen-lp.vercel.app
 
 ---
-Made with ❤️ by Aldo Ifal Fahri
+N

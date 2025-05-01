@@ -70,7 +70,7 @@ export function Footer() {
               <span className="text-xl font-bold">IMPHNEN</span>
             </Link>
             <p className="text-xs md:text-sm text-neutral-600 dark:text-neutral-400">
-              Ingin Menjadi Programmer Handal Namun Enggan Ngoding
+              test
             </p>
             <div className="flex space-x-4 mt-4">
               {socialLinks.map((social, idx) => (
