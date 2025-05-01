@@ -13,9 +13,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "IMPHNEN | Ingin Menjadi Programmer Handal Namun Enggan Ngoding",
+  title: "Porfolio",
   description:
-    "Ingin Menjadi Programmer Handal Namun Enggan Ngoding adalah komunitas perkumpulan sepuh-sepuh yang pura-pura malas ngoding, padahal jago banget.",
+    "Welcome to Testing.",
 };
 
 export default function RootLayout({
